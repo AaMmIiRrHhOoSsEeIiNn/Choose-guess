@@ -9,7 +9,7 @@ Enter start of range: 1
 Enter end of range: 1500
 Enter how many times process repeat?
  ->5
-# So 5 times RandomNumber will choose and each time computer try to guess it:
+#So 5 times RandomNumber will choose and each time computer try to guess it:
 
 Repeat:1
 Random Number is 1194
